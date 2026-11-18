@@ -1,0 +1,14 @@
+{
+  "name": "gurita",
+  "owner": {
+    "name": "Lukasz Kosiak"
+  },
+  "plugins": [
+    {
+      "name": "gurita",
+      "source": ".",
+      "description": "Gurita brings all the important questions up to be decided upfront, so you can hand long-running execution to your agent confidently.",
+      "version": "2.0.0"
+    }
+  ]
+}
