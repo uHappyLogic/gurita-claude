@@ -1,3 +1,5 @@
+<img src="banner.svg" width="100%" alt="Octopus arms drawn in ASCII art" />
+
 <p align="center">
   <a href="https://github.com/uHappyLogic/gurita-claude/tree/traffic-data">
     <img alt="unique views" src="https://raw.githubusercontent.com/uHappyLogic/gurita-claude/traffic-data/views-unique.svg" />
@@ -40,7 +42,7 @@ Run `/init` to document your project — its domain context, working conventions
 
 ## Source
 
-Built from [uHappyLogic/gurita](https://github.com/uHappyLogic/gurita) at release tag [`2.0.0`](https://github.com/uHappyLogic/gurita/releases/tag/2.0.0), whose release page carries the notes for this version. The exact source commit this tree was built from is recorded in the body of this repository's `Release: 2.0.0` commit.
+Built from [uHappyLogic/gurita](https://github.com/uHappyLogic/gurita) at release tag [`2.1.0`](https://github.com/uHappyLogic/gurita/releases/tag/2.1.0), whose release page carries the notes for this version. The exact source commit this tree was built from is recorded in the body of this repository's `Release: 2.1.0` commit.
 
 ## License
 
